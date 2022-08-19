@@ -67,7 +67,7 @@
       },
       "post" : {
         "tags" : [ "pet" ],
-        "summary" : "Add a new pet to the store",
+        "summary" : "Add a newish pet to the store",
         "description" : "This is an interesting one.",
         "operationId" : "addPet",
         "requestBody" : {
